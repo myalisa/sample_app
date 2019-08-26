@@ -1,0 +1,8 @@
+{
+  message: "What is the current time?",
+  time :@current_time
+
+
+
+
+}
